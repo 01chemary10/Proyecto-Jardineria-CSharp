@@ -28,47 +28,32 @@ Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de
 ![consultar_cliente_1](https://github.com/user-attachments/assets/56ddb0e7-7412-40af-a278-c0131f96dc74)
 
 
-## **Arquitectura: Patrón DAO**
+## Arquitectura: Patrón DAO
 
 El proyecto está estructurado siguiendo el patrón **DAO (Data Access Object)** para separar la lógica de negocio de la lógica de acceso a datos. Esto resulta en un código más limpio, mantenible y reutilizable.
 
-    ClienteDAO.cs: Gestiona todas las operaciones sobre la tabla cliente (búsquedas, inserciones).
+* **ClienteDAO.cs:** Gestiona todas las operaciones sobre la tabla `cliente` (búsquedas, inserciones).
+* **EmpleadoDAO.cs:** Gestiona las operaciones sobre la tabla `empleado` (obtener la lista para los ComboBox).
+* **PedidoDAO.cs:** Gestiona las consultas sobre la tabla `pedido`.
+* **DetallePedidoDAO.cs:** Gestiona las consultas sobre la tabla `detalle_pedido`, cruzándola con `producto`.
+* **Cliente.cs:** Clase modelo (POCO) que sirve como contenedor para transportar los datos de un cliente de forma estructurada.
 
-    EmpleadoDAO.cs: Gestiona las operaciones sobre la tabla empleado (obtener la lista para los ComboBox).
+## Tecnologías Utilizadas
 
-    PedidoDAO.cs: Gestiona las consultas sobre la tabla pedido.
+* **Lenguaje:** C#
+* **Framework:** .NET Framework (Windows Forms)
+* **IDE:** Visual Studio 2022
+* **Base de Datos:** Oracle
+* **Conector:** ODP.NET (Oracle.ManagedDataAccess.Client vía NuGet)
 
-    DetallePedidoDAO.cs: Gestiona las consultas sobre la tabla detalle_pedido, cruzándola con producto.
+## Instalación y Configuración
 
-    Cliente.cs: Clase modelo (POCO) que sirve como contenedor para transportar los datos de un cliente de forma estructurada.
-
-## **Tecnologías Utilizadas**
-
-    **Lenguaje:** C#
-
-   * *Framework**: .NET Framework (Windows Forms)
-
-    **IDE:** Visual Studio 2022
-
-   * *Base de Datos:** Oracle
-
-    **Conector:** ODP.NET (Oracle.ManagedDataAccess.Client vía NuGet)
-
-## **Instalación y Configuración**
-
-    Clonar o descargar este repositorio.
-
-    Abrir la solución (.sln) con Visual Studio 2022.
-
-    Al abrir, Visual Studio restaurará automáticamente el paquete NuGet de Oracle necesario.
-
-    **IMPORTANTE:** Antes de ejecutar, es necesario configurar la cadena de conexión a la base de datos. Esta se encuentra como un campo private string connectionString al principio de cada una de las clases DAO (ClienteDAO.cs, EmpleadoDAO.cs, etc.).
-
-    Modificar la cadena con los datos de tu instancia de Oracle:
-    C#
-
-private string connectionString = "Data Source=TU_HOST:TU_PUERTO/TU_SID;User Id=TU_USUARIO;Password=TU_CONTRASENA;";
-
-Se recomienda compilar y ejecutar el proyecto usando la plataforma x86 para maximizar la compatibilidad con diferentes drivers de Oracle.
-
-Ejecutar el proyecto.
+1. Clonar o descargar este repositorio.
+2. Abrir la solución (`.sln`) con Visual Studio 2022.
+3. Al abrir, Visual Studio restaurará automáticamente el paquete NuGet de Oracle necesario.
+4. **IMPORTANTE:** Antes de ejecutar, es necesario configurar la cadena de conexión a la base de datos. Esta se encuentra como un campo `private string connectionString` al principio de cada una de las clases DAO (`ClienteDAO.cs`, `EmpleadoDAO.cs`, etc.).
+5. Modificar la cadena con los datos de tu instancia de Oracle:
+   ```csharp
+   private string connectionString = "Data Source=TU_HOST:TU_PUERTO/TU_SID;User Id=TU_USUARIO;Password=TU_CONTRASENA;";
+6. Se recomienda compilar y ejecutar el proyecto usando la plataforma x86 para maximizar la compatibilidad con diferentes drivers de Oracle.
+7. Ejecutar el proyecto.
