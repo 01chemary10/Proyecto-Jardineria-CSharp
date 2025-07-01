@@ -32,7 +32,7 @@ Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de
 
 ## **Arquitectura: Patrón DAO**
 
-El proyecto está estructurado siguiendo el patrón *DAO (Data Access Object)* para separar la lógica de negocio de la lógica de acceso a datos. Esto resulta en un código más limpio, mantenible y reutilizable.
+El proyecto está estructurado siguiendo el patrón **DAO (Data Access Object)** para separar la lógica de negocio de la lógica de acceso a datos. Esto resulta en un código más limpio, mantenible y reutilizable.
 
     ClienteDAO.cs: Gestiona todas las operaciones sobre la tabla cliente (búsquedas, inserciones).
 
