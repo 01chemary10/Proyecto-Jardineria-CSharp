@@ -1,0 +1,16 @@
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\bin\Debug\E1_UF2180 - Practica evaluable.exe.config
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\bin\Debug\E1_UF2180 - Practica evaluable.exe
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\bin\Debug\E1_UF2180 - Practica evaluable.pdb
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.csproj.AssemblyReference.cache
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180___Practica_evaluable.Form1.resources
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180___Practica_evaluable.FormAltaCliente.resources
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180___Practica_evaluable.FormClientesPorEmpleado.resources
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180___Practica_evaluable.FormConsultarCliente.resources
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180___Practica_evaluable.Properties.Resources.resources
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.csproj.GenerateResource.cache
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.csproj.CoreCompileInputs.cache
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF218.5572578F.Up2Date
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.exe
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.pdb
+C:\Users\JOSE_MARIA\Programacion_Lenguajes_Estructurados\MF0494_3\UF2180\E1_UF2180 - Practica evaluable\E1_UF2180 - Practica evaluable\obj\Debug\E1_UF2180 - Practica evaluable.exe.config
