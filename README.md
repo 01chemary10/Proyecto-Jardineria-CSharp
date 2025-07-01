@@ -1,8 +1,8 @@
-#*Aplicación de Gestión de "Jardinería"*
+# *Aplicación de Gestión de "Jardinería"*
 
 Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de clientes y pedidos de una base de datos Oracle, como parte de un proyecto de clase. El proyecto demuestra la implementación de una arquitectura limpia y profesional utilizando el patrón de diseño DAO (Data Access Object).
 
-##*Características Principales*
+## *Características Principales*
 
     *Gestión de Clientes*: Formulario para el alta de nuevos clientes en la base de datos.
 
@@ -20,7 +20,7 @@ Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de
 
     *Diseño Cuidado:* Uso de colores para diferenciar las acciones de los botones y mejorar la experiencia de usuario.
 
-###*Capturas de Pantalla*
+### *Capturas de Pantalla*
 *Menú Principal:*
 ![menu_principal](https://github.com/user-attachments/assets/5dce1ab8-d2af-4d4c-b612-7a33dd4ed4fe)
 
@@ -30,7 +30,7 @@ Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de
 ![consultar_cliente_1](https://github.com/user-attachments/assets/56ddb0e7-7412-40af-a278-c0131f96dc74)
 
 
-##*Arquitectura: Patrón DAO*
+## *Arquitectura: Patrón DAO*
 
 El proyecto está estructurado siguiendo el patrón *DAO (Data Access Object)* para separar la lógica de negocio de la lógica de acceso a datos. Esto resulta en un código más limpio, mantenible y reutilizable.
 
@@ -44,7 +44,7 @@ El proyecto está estructurado siguiendo el patrón *DAO (Data Access Object)* p
 
     Cliente.cs: Clase modelo (POCO) que sirve como contenedor para transportar los datos de un cliente de forma estructurada.
 
-##*Tecnologías Utilizadas*
+## *Tecnologías Utilizadas*
 
     *Lenguaje:* C#
 
@@ -56,7 +56,7 @@ El proyecto está estructurado siguiendo el patrón *DAO (Data Access Object)* p
 
     *Conector:* ODP.NET (Oracle.ManagedDataAccess.Client vía NuGet)
 
-##*Instalación y Configuración*
+## *Instalación y Configuración*
 
     Clonar o descargar este repositorio.
 
@@ -64,7 +64,7 @@ El proyecto está estructurado siguiendo el patrón *DAO (Data Access Object)* p
 
     Al abrir, Visual Studio restaurará automáticamente el paquete NuGet de Oracle necesario.
 
-    *IMPORTANTE: *Antes de ejecutar, es necesario configurar la cadena de conexión a la base de datos. Esta se encuentra como un campo private string connectionString al principio de cada una de las clases DAO (ClienteDAO.cs, EmpleadoDAO.cs, etc.).
+    *IMPORTANTE:* Antes de ejecutar, es necesario configurar la cadena de conexión a la base de datos. Esta se encuentra como un campo private string connectionString al principio de cada una de las clases DAO (ClienteDAO.cs, EmpleadoDAO.cs, etc.).
 
     Modificar la cadena con los datos de tu instancia de Oracle:
     C#
