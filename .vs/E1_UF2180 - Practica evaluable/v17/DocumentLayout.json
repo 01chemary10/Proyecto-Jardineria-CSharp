@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\empleadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:empleadodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\detallepedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:detallepedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formconsultarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formconsultarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formclientesporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formclientesporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formaltacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formaltacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|c:\\users\\jose_maria\\programacion_lenguajes_estructurados\\mf0494_3\\uf2180\\e1_uf2180 - practica evaluable\\e1_uf2180 - practica evaluable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formconsultarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formconsultarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formaltacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formaltacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\formclientesporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:formclientesporempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE24FCD1-2E45-40ED-967A-C4F6921F4985}|E1_UF2180 - Practica evaluable.csproj|solutionrelative:pedidodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormConsultarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormConsultarCliente.cs",
+              "RelativeDocumentMoniker": "FormConsultarCliente.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormConsultarCliente.cs",
+              "RelativeToolTip": "FormConsultarCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:06:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:35:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "ClienteDAO.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\ClienteDAO.cs",
+              "RelativeToolTip": "ClienteDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:15:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallePedidoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\DetallePedidoDAO.cs",
+              "RelativeDocumentMoniker": "DetallePedidoDAO.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\DetallePedidoDAO.cs",
+              "RelativeToolTip": "DetallePedidoDAO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:48:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\EmpleadoDAO.cs",
+              "RelativeDocumentMoniker": "EmpleadoDAO.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\EmpleadoDAO.cs",
+              "RelativeToolTip": "EmpleadoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:21:10.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormClientesPorEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormClientesPorEmpleado.cs",
+              "RelativeDocumentMoniker": "FormClientesPorEmpleado.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormClientesPorEmpleado.cs",
+              "RelativeToolTip": "FormClientesPorEmpleado.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:56:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAltaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormAltaCliente.cs",
+              "RelativeDocumentMoniker": "FormAltaCliente.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormAltaCliente.cs",
+              "RelativeToolTip": "FormAltaCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:40:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:43:01.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormConsultarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormConsultarCliente.cs",
+              "RelativeDocumentMoniker": "FormConsultarCliente.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormConsultarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormConsultarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:59:36.725Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAltaCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormAltaCliente.cs",
+              "RelativeDocumentMoniker": "FormAltaCliente.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormAltaCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAltaCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:02:21.323Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormClientesPorEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormClientesPorEmpleado.cs",
+              "RelativeDocumentMoniker": "FormClientesPorEmpleado.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\FormClientesPorEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormClientesPorEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:49:56.495Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:07:06.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\PedidoDAO.cs",
+              "RelativeDocumentMoniker": "PedidoDAO.cs",
+              "ToolTip": "C:\\Users\\JOSE_MARIA\\Programacion_Lenguajes_Estructurados\\MF0494_3\\UF2180\\E1_UF2180 - Practica evaluable\\E1_UF2180 - Practica evaluable\\PedidoDAO.cs",
+              "RelativeToolTip": "PedidoDAO.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:21:50.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
